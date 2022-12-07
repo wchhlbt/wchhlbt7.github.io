@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chrome Extension | Chuhan Wang | 王楚涵</title>
+    <link>https://wangchuhan.cn/tag/chrome-extension/</link>
+      <atom:link href="https://wangchuhan.cn/tag/chrome-extension/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chrome Extension</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wangchuhan.cn/media/icon_hudba5026d243df735440987f9ddc8c7ba_39106_512x512_fill_lanczos_center_3.png</url>
+      <title>Chrome Extension</title>
+      <link>https://wangchuhan.cn/tag/chrome-extension/</link>
+    </image>
+    
+    <item>
+      <title>NoSpoofing</title>
+      <link>https://wangchuhan.cn/project/nospoofing/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/project/nospoofing/</guid>
+      <description>&lt;p&gt;NoSpoofing is a UI notification scheme which can alert users that the emails they receive may be spoofing..&lt;/p&gt;
+&lt;p&gt;Email UI rendering is a significant part that affects the users’ perception of an email’s authenticity. However, most of the web mails and email clients we tested do not display SPF, DKIM, or DMARC authentication results explicitly. Thus, it is difficult for ordinary users to fully understand the details of email authentication.&lt;/p&gt;
+&lt;p&gt;An effective defense method is to provide a user-friendly UI notification, which alerts users that the emails they receive may be spoofing. This extension is such an UI notification.&lt;/p&gt;
+&lt;p&gt;Usage: Users can click the icon of the extension when reading an email. Then the web UI will show whether the email is safe or not. If users want to know the details of this email, they can click the notification message.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

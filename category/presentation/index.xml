@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentation | Chuhan Wang | 王楚涵</title>
+    <link>https://wangchuhan.cn/category/presentation/</link>
+      <atom:link href="https://wangchuhan.cn/category/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Presentation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wangchuhan.cn/media/icon_hudba5026d243df735440987f9ddc8c7ba_39106_512x512_fill_lanczos_center_3.png</url>
+      <title>Presentation</title>
+      <link>https://wangchuhan.cn/category/presentation/</link>
+    </image>
+    
+    <item>
+      <title>ICANN DNS 研讨会 | 2022年11月</title>
+      <link>https://wangchuhan.cn/zh/event/ids-2021-copy/</link>
+      <pubDate>Tue, 15 Nov 2022 09:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/zh/event/ids-2021-copy/</guid>
+      <description>&lt;p&gt;在2022年第五届ICANN的DNS研讨会（&lt;a href=&#34;https://www.icann.org/ids&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IDS 2022&lt;/a&gt;）中，我分享了NDSS &amp;lsquo;23论文&lt;a href=&#34;https://phoenixdomain.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;不死域名&lt;/a&gt;，反响热烈。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OARC 39 &amp; 47th CENTR Technical Workshop</title>
+      <link>https://wangchuhan.cn/zh/event/oarc-39/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/zh/event/oarc-39/</guid>
+      <description>&lt;p&gt;在 &lt;a href=&#34;https://indico.dns-oarc.net/event/44/contributions/953/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 39 &amp;amp; 47th CENTR Technical Workshop&lt;/a&gt;（线上线下结合），我分享了最新的研究工作&lt;a href=&#34;https://phoenixdomain.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;不死域名&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;现场反馈&#34;&gt;现场反馈&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./talk.png&#34; alt=&#34;talk&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pentester Academy 工具集｜XMap</title>
+      <link>https://wangchuhan.cn/zh/event/the-tool-box-xmap-2021/</link>
+      <pubDate>Wed, 15 Dec 2021 08:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/zh/event/the-tool-box-xmap-2021/</guid>
+      <description>&lt;p&gt;在&lt;a href=&#34;https://www.youtube.com/channel/UChjC1q6Ami7W0E71TzPZELA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@Pentester Academy TV&lt;/a&gt;，与&lt;a href=&#34;https://twitter.com/DamianGoh13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@DamianGoh13&lt;/a&gt;一道，我展示了&lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; 扫描器工具。新功能即将发布。&lt;/p&gt;
+&lt;p&gt;视频链接：&lt;a href=&#34;https://www.youtube.com/watch?v=wgdFham6P2Y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2021年第51届IEEE/IFIP国际可靠系统和网络会议 | DSN 2021</title>
+      <link>https://wangchuhan.cn/zh/event/dsn-2021/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/zh/event/dsn-2021/</guid>
+      <description>&lt;p&gt;在2021年第51届IEEE/IFIP国际可靠系统和网络会议上（线上举办），我分享了论文：Fast IPv6 Network Periphery Discovery and Security Implications。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICANN DNS 研讨会 | 2021年5月</title>
+      <link>https://wangchuhan.cn/zh/event/ids-2021/</link>
+      <pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/zh/event/ids-2021/</guid>
+      <description>&lt;p&gt;在2021年第四届ICANN的DNS线上研讨会中，我介绍了实验室晓峰师兄所提出了的一种&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity20/presentation/zheng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;新型DNS缓存污染攻击&lt;/a&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2021 West Lake Cybersecurity Conference: Cyberspace Security Tools Presentation</title>
+      <link>https://wangchuhan.cn/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</link>
+      <pubDate>Sat, 24 Apr 2021 08:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</guid>
+      <description>&lt;p&gt;In the 2021 West Lake Cybersecurity Conference, I presented an email security evaluation tool. &lt;a href=&#34;https://github.com/wchhlbt/EmailSpoofingTestTool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESpoofing&lt;/a&gt; to the audiences.&lt;/p&gt;
+&lt;!-- In the 2021 West Lake Cybersecurity Conference, I presented the IPv6 network scanner [XMap](https://idealeer.github.io/project/xmap/) to the audiences. --&gt;
+&lt;p&gt;Our colleagues Xiang Li presented his Ipv6 network scanner &lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2021 西湖论剑·网络安全大会：首届国产优秀网络安全工具主题展</title>
+      <link>https://wangchuhan.cn/zh/event/west-lake-cyberspace-conf-2021/</link>
+      <pubDate>Sat, 24 Apr 2021 08:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/zh/event/west-lake-cyberspace-conf-2021/</guid>
+      <description>&lt;p&gt;在2021年西湖论剑·网络安全大会：首届国产优秀网络安全工具主题展中，我们展示了&lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; 扫描器工具。&lt;/p&gt;
+&lt;p&gt;我们的同行凯文、楚涵、建宇，演示了他们的伪造邮件检测工具：&lt;a href=&#34;https://github.com/mo-xiaoxi/ESpoofing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESpoofing&lt;/a&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

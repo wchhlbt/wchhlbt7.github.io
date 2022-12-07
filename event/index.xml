@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activities | Chuhan Wang | 王楚涵</title>
+    <link>https://wangchuhan.cn/event/</link>
+      <atom:link href="https://wangchuhan.cn/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Activities</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Apr 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wangchuhan.cn/media/icon_hudba5026d243df735440987f9ddc8c7ba_39106_512x512_fill_lanczos_center_3.png</url>
+      <title>Activities</title>
+      <link>https://wangchuhan.cn/event/</link>
+    </image>
+    
+    <item>
+      <title>2021 West Lake Cybersecurity Conference: Cyberspace Security Tools Presentation</title>
+      <link>https://wangchuhan.cn/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</link>
+      <pubDate>Sat, 24 Apr 2021 08:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</guid>
+      <description>&lt;p&gt;In the 2021 West Lake Cybersecurity Conference, I presented an email security evaluation tool. &lt;a href=&#34;https://github.com/wchhlbt/EmailSpoofingTestTool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESpoofing&lt;/a&gt; to the audiences.&lt;/p&gt;
+&lt;!-- In the 2021 West Lake Cybersecurity Conference, I presented the IPv6 network scanner [XMap](https://idealeer.github.io/project/xmap/) to the audiences. --&gt;
+&lt;p&gt;Our colleagues Xiang Li presented his Ipv6 network scanner &lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
