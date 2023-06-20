@@ -6,19 +6,11 @@
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wangchuhan.cn/publication/security22/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wangchuhan.cn/categories/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wangchuhan.cn/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/tag/dkim/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -42,23 +34,7 @@
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wangchuhan.cn/tag/email/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/category/email/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/tag/email-security/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wangchuhan.cn/publication_types/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/publication/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -76,6 +52,22 @@
   </url><url>
     <loc>https://wangchuhan.cn/zh/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/publication/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/publication/ccs23/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/tag/underground-economy/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/category/underground-economy/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wangchuhan.cn/talk/2023-international-forum-for-security-research-inforsec-2023/</loc>
@@ -132,6 +124,26 @@
   </url><url>
     <loc>https://wangchuhan.cn/zh/event/msrc-blackhat-2022/</loc>
     <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/publication/security22/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/tag/dkim/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/tag/email/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/category/email/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/tag/email-security/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wangchuhan.cn/zh/event/the-tool-box-xmap-2021/</loc>

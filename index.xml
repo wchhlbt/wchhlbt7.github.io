@@ -13,18 +13,6 @@
     </image>
     
     <item>
-      <title>A Large-scale and Longitudinal Measurement Study of DKIM Deployment</title>
-      <link>https://wangchuhan.cn/publication/security22/</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://wangchuhan.cn/publication/security22/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-&lt;p&gt;DomainKeys Identified Mail (DKIM) is an email authentication protocol to protect the integrity of email contents. It has been proposed and standardized for over a decade and adopted by Yahoo!, Google, and other leading email service providers. However, little has been done to understand the adoption rate and potential security issues of DKIM due to the challenges of measuring DKIM deployment at scale. &lt;br&gt; In this paper, we provide a large-scale and longitudinal measurement study on how well DKIM is deployed and managed. Our study was made possible by a broad collection of datasets, including 9.5 million DKIM records from passive DNS datasets over five years and 460 million DKIM signatures from real-world email headers. Moreover, we conduct an active measurement on Alexa Top 1 million domains. Our measurement results show that 28.1% of Alexa Top 1 million domains have enabled DKIM, of which 2.9% are misconfigured. We demonstrate that the issues of DKIM key management and DKIM signatures are prevalent in the real world, even for well-known email providers (e.g., Gmail and Mail.ru). We recommend the security community should pay more attention to the systemic problems of DKIM deployment and mitigate these issues from the perspective of protocol design.&lt;/p&gt;
-&lt;p&gt;We also proposed an online detection tool for email administrator, called &amp;ldquo;Nospoofing&amp;rdquo;.
-NoSpoofing: &lt;a href=&#34;https://nospoofing.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nospoofing.cn/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The Maginot Line: Attacking the Boundary of DNS Caching Protection</title>
       <link>https://wangchuhan.cn/zh/publication/security23/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
@@ -44,6 +32,20 @@ NoSpoofing: &lt;a href=&#34;https://nospoofing.cn/&#34; target=&#34;_blank&#34; 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knot Resolver&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-32983&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild</title>
+      <link>https://wangchuhan.cn/publication/ccs23/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/publication/ccs23/</guid>
+      <description>&lt;!-- ### Overview
+
+This paper systematically analyzes the transmission of an email and identiﬁes a series of new attacks capable of bypassing SPF, DKIM, DMARC and user-interface protections. We conduct a largescale experiment on 30 popular email services and 23 email clients, and ﬁnd that all of them are vulnerable to certain types of new attacks.
+
+[NoSpoofing](https://chrome.google.com/webstore/detail/nospoofing/ehidaopjcnapdglbbbjgeoagpophfjnp). 
+We designed a Chrome Extension called NoSpoofing. It is a UI notification scheme which can alert users that the emails they receive may be spoofing. --&gt;
 </description>
     </item>
     
@@ -161,6 +163,18 @@ NoSpoofing: &lt;a href=&#34;https://nospoofing.cn/&#34; target=&#34;_blank&#34; 
 &lt;p&gt;· &lt;strong&gt;Can I have a +1?&lt;/strong&gt; We’d love for you to introduce us to researchers and potential partners that might not have received an invitation. Feel free to request a +1 when registering but please note that we cannot guarantee additional tickets as space is limited.&lt;/p&gt;
 &lt;p&gt;· &lt;strong&gt;Can I forward this email?&lt;/strong&gt; Please don’t. When registering request a +1, or email &lt;a href=&#34;mailto:bluehat@microsoft.com&#34;&gt;bluehat@microsoft.com&lt;/a&gt; with the name of the researcher(s) you would like to nominate.&lt;/p&gt;
 &lt;p&gt;· &lt;strong&gt;I’m not attending Black Hat or DEF CON, can I give my ticket to another researcher?&lt;/strong&gt; Tickets are non-transferable, however if you’d like to nominate another researcher to attend the MSRC Researcher Celebration event please email &lt;a href=&#34;mailto:bluehat@microsoft.com&#34;&gt;bluehat@microsoft.com&lt;/a&gt; with the name and email address of the researcher you’d like to nominate – but please ensure that researcher has given you permission to pass their contact information on to us.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Large-scale and Longitudinal Measurement Study of DKIM Deployment</title>
+      <link>https://wangchuhan.cn/publication/security22/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/publication/security22/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;DomainKeys Identified Mail (DKIM) is an email authentication protocol to protect the integrity of email contents. It has been proposed and standardized for over a decade and adopted by Yahoo!, Google, and other leading email service providers. However, little has been done to understand the adoption rate and potential security issues of DKIM due to the challenges of measuring DKIM deployment at scale. &lt;br&gt; In this paper, we provide a large-scale and longitudinal measurement study on how well DKIM is deployed and managed. Our study was made possible by a broad collection of datasets, including 9.5 million DKIM records from passive DNS datasets over five years and 460 million DKIM signatures from real-world email headers. Moreover, we conduct an active measurement on Alexa Top 1 million domains. Our measurement results show that 28.1% of Alexa Top 1 million domains have enabled DKIM, of which 2.9% are misconfigured. We demonstrate that the issues of DKIM key management and DKIM signatures are prevalent in the real world, even for well-known email providers (e.g., Gmail and Mail.ru). We recommend the security community should pay more attention to the systemic problems of DKIM deployment and mitigate these issues from the perspective of protocol design.&lt;/p&gt;
+&lt;p&gt;We also proposed an online detection tool for email administrator, called &amp;ldquo;Nospoofing&amp;rdquo;.
+NoSpoofing: &lt;a href=&#34;https://nospoofing.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nospoofing.cn/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
