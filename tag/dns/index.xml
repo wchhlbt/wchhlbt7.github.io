@@ -5,12 +5,26 @@
     <link>https://wangchuhan.cn/tag/dns/</link>
       <atom:link href="https://wangchuhan.cn/tag/dns/index.xml" rel="self" type="application/rss+xml" />
     <description>DNS</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wangchuhan.cn/media/icon_hudba5026d243df735440987f9ddc8c7ba_39106_512x512_fill_lanczos_center_3.png</url>
       <title>DNS</title>
       <link>https://wangchuhan.cn/tag/dns/</link>
     </image>
+    
+    <item>
+      <title>TuDoor Attack: Systematically Exploring and Exploiting Logic Vulnerabilities in DNS Response Pre-processing with Malformed Packets</title>
+      <link>https://wangchuhan.cn/publication/sp24/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/publication/sp24/</guid>
+      <description>&lt;!-- ### Overview
+
+This paper systematically analyzes the transmission of an email and identiﬁes a series of new attacks capable of bypassing SPF, DKIM, DMARC and user-interface protections. We conduct a largescale experiment on 30 popular email services and 23 email clients, and ﬁnd that all of them are vulnerable to certain types of new attacks.
+
+[NoSpoofing](https://chrome.google.com/webstore/detail/nospoofing/ehidaopjcnapdglbbbjgeoagpophfjnp). 
+We designed a Chrome Extension called NoSpoofing. It is a UI notification scheme which can alert users that the emails they receive may be spoofing. --&gt;
+</description>
+    </item>
     
     <item>
       <title>The Maginot Line: Attacking the Boundary of DNS Caching Protection</title>
