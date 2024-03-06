@@ -38,6 +38,22 @@
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://wangchuhan.cn/talk/31th-annual-network-and-distributed-system-security-symposium-ndss-2024/</loc>
+    <lastmod>2024-02-26T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/event/</loc>
+    <lastmod>2024-02-26T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/tag/presentation/</loc>
+    <lastmod>2024-02-26T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/category/presentation/</loc>
+    <lastmod>2024-02-26T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://wangchuhan.cn/tag/cdn/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -78,30 +94,6 @@
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wangchuhan.cn/tag/dns-bailiwick-rule/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/tag/dns-cache-poisoning/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/tag/dns-security/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/zh/publication/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/zh/publication/security23/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/zh/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wangchuhan.cn/publication/ccs23/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -116,30 +108,6 @@
   </url><url>
     <loc>https://wangchuhan.cn/talk/2023-international-forum-for-security-research-inforsec-2023/</loc>
     <lastmod>2023-04-08T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/event/</loc>
-    <lastmod>2023-04-08T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/tag/presentation/</loc>
-    <lastmod>2023-04-08T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/category/presentation/</loc>
-    <lastmod>2023-04-08T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/tag/dns-delegation/</loc>
-    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/tag/dns-revocation/</loc>
-    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/zh/publication/ndss23/</loc>
-    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wangchuhan.cn/publication/security22/</loc>
@@ -162,43 +130,7 @@
     <lastmod>2021-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wangchuhan.cn/zh/publication/dsn21/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/tag/internet-measurement/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/tag/ipv6/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/category/ipv6/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/tag/ipv6-network-periphery/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/tag/ipv6-security/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/tag/routing-loop-attack/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wangchuhan.cn/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</loc>
-    <lastmod>2021-04-24T08:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/zh/event/west-lake-cyberspace-conf-2021/</loc>
-    <lastmod>2021-04-24T08:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/zh/event/</loc>
     <lastmod>2021-04-24T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -214,18 +146,19 @@
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wangchuhan.cn/tag/xmap/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/zh/project/xmap/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wangchuhan.cn/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wangchuhan.cn/zh/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/zh/event/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/zh/publication/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/zh/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -5,12 +5,35 @@
     <link>https://wangchuhan.cn/event/</link>
       <atom:link href="https://wangchuhan.cn/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Activities</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Feb 2024 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wangchuhan.cn/media/icon_hudba5026d243df735440987f9ddc8c7ba_39106_512x512_fill_lanczos_center_3.png</url>
       <title>Activities</title>
       <link>https://wangchuhan.cn/event/</link>
     </image>
+    
+    <item>
+      <title>31th Annual Network and Distributed System Security Symposium | NDSS 2024</title>
+      <link>https://wangchuhan.cn/talk/31th-annual-network-and-distributed-system-security-symposium-ndss-2024/</link>
+      <pubDate>Mon, 26 Feb 2024 09:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/talk/31th-annual-network-and-distributed-system-security-symposium-ndss-2024/</guid>
+      <description>&lt;p&gt;It is my pleasure to have the opportunity to share our latest research work on email security live at NDSS Symposium 2024. Due to the Covid19, I didn&amp;rsquo;t have the chance to attend the international conference on site until this year.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m also glad to meet many old friends and make new friends here. Thanks you for the hospitality of Xintong, it&amp;rsquo;s great to see old classmates on the other side of the pacific!&lt;/p&gt;
+&lt;p&gt;A lot of interesting talks, nice beach and wonderful sunset. It was a great experience~&lt;/p&gt;
+&lt;p&gt;See you NDSS~ See you San Diego🏝️ Hope to see you again~&lt;/p&gt;
+&lt;h3 id=&#34;moments&#34;&gt;Moments&lt;/h3&gt;
+&lt;img src=&#34;5391709702083_.pic.jpg&#34;&gt; 
+&lt;img src=&#34;5451709702089_.pic.jpg&#34;&gt; 
+&lt;img src=&#34;5501709702093_.pic.jpg&#34;&gt;
+&lt;img src=&#34;5421709702086_.pic.jpg&#34;&gt; 
+&lt;img src=&#34;5461709702090_.pic.jpg&#34;&gt; 
+&lt;img src=&#34;5511709702094_.pic.jpg&#34;&gt;
+&lt;img src=&#34;5431709702087_.pic.jpg&#34;&gt; 
+&lt;img src=&#34;5471709702091_.pic.jpg&#34;&gt;
+&lt;img src=&#34;5441709702087_.pic.jpg&#34;&gt; 
+&lt;img src=&#34;5491709702093_.pic.jpg&#34;&gt;
+</description>
+    </item>
     
     <item>
       <title>2023 International Forum for Security Research | Inforsec 2023</title>

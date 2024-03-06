@@ -5,12 +5,35 @@
     <link>https://wangchuhan.cn/category/presentation/</link>
       <atom:link href="https://wangchuhan.cn/category/presentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Feb 2024 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wangchuhan.cn/media/icon_hudba5026d243df735440987f9ddc8c7ba_39106_512x512_fill_lanczos_center_3.png</url>
       <title>Presentation</title>
       <link>https://wangchuhan.cn/category/presentation/</link>
     </image>
+    
+    <item>
+      <title>31th Annual Network and Distributed System Security Symposium | NDSS 2024</title>
+      <link>https://wangchuhan.cn/talk/31th-annual-network-and-distributed-system-security-symposium-ndss-2024/</link>
+      <pubDate>Mon, 26 Feb 2024 09:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/talk/31th-annual-network-and-distributed-system-security-symposium-ndss-2024/</guid>
+      <description>&lt;p&gt;It is my pleasure to have the opportunity to share our latest research work on email security live at NDSS Symposium 2024. Due to the Covid19, I didn&amp;rsquo;t have the chance to attend the international conference on site until this year.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m also glad to meet many old friends and make new friends here. Thanks you for the hospitality of Xintong, it&amp;rsquo;s great to see old classmates on the other side of the pacific!&lt;/p&gt;
+&lt;p&gt;A lot of interesting talks, nice beach and wonderful sunset. It was a great experience~&lt;/p&gt;
+&lt;p&gt;See you NDSS~ See you San Diego🏝️ Hope to see you again~&lt;/p&gt;
+&lt;h3 id=&#34;moments&#34;&gt;Moments&lt;/h3&gt;
+&lt;img src=&#34;5391709702083_.pic.jpg&#34;&gt; 
+&lt;img src=&#34;5451709702089_.pic.jpg&#34;&gt; 
+&lt;img src=&#34;5501709702093_.pic.jpg&#34;&gt;
+&lt;img src=&#34;5421709702086_.pic.jpg&#34;&gt; 
+&lt;img src=&#34;5461709702090_.pic.jpg&#34;&gt; 
+&lt;img src=&#34;5511709702094_.pic.jpg&#34;&gt;
+&lt;img src=&#34;5431709702087_.pic.jpg&#34;&gt; 
+&lt;img src=&#34;5471709702091_.pic.jpg&#34;&gt;
+&lt;img src=&#34;5441709702087_.pic.jpg&#34;&gt; 
+&lt;img src=&#34;5491709702093_.pic.jpg&#34;&gt;
+</description>
+    </item>
     
     <item>
       <title>2023 International Forum for Security Research | Inforsec 2023</title>
@@ -36,16 +59,6 @@ NoSpoofing: &lt;a href=&#34;https://nospoofing.cn/&#34; target=&#34;_blank&#34; 
       <description>&lt;p&gt;In the 2021 West Lake Cybersecurity Conference, I presented an email security evaluation tool. &lt;a href=&#34;https://github.com/wchhlbt/EmailSpoofingTestTool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESpoofing&lt;/a&gt; to the audiences.&lt;/p&gt;
 &lt;!-- In the 2021 West Lake Cybersecurity Conference, I presented the IPv6 network scanner [XMap](https://idealeer.github.io/project/xmap/) to the audiences. --&gt;
 &lt;p&gt;Our colleagues Xiang Li presented his Ipv6 network scanner &lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2021 西湖论剑·网络安全大会：首届国产优秀网络安全工具主题展</title>
-      <link>https://wangchuhan.cn/zh/event/west-lake-cyberspace-conf-2021/</link>
-      <pubDate>Sat, 24 Apr 2021 08:00:00 +0000</pubDate>
-      <guid>https://wangchuhan.cn/zh/event/west-lake-cyberspace-conf-2021/</guid>
-      <description>&lt;p&gt;在2021年西湖论剑·网络安全大会：首届国产优秀网络安全工具主题展中，我们展示了&lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; 扫描器工具。&lt;/p&gt;
-&lt;p&gt;我们的同行凯文、楚涵、建宇，演示了他们的伪造邮件检测工具：&lt;a href=&#34;https://github.com/mo-xiaoxi/ESpoofing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESpoofing&lt;/a&gt;。&lt;/p&gt;
 </description>
     </item>
     
