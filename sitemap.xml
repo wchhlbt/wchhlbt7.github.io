@@ -3,15 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wangchuhan.cn/publication-type/1/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wangchuhan.cn/categories/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wangchuhan.cn/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/tag/email/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/category/email/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/tag/email-security/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/publication/security25/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/publication_types/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/publication/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/tags/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/publication/ccs24/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/tag/web/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/category/web/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wangchuhan.cn/publication/sp24-b/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wangchuhan.cn/tag/dns/</loc>
@@ -22,20 +66,20 @@
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wangchuhan.cn/publication_types/</loc>
+    <loc>https://wangchuhan.cn/publication/sp24-a/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wangchuhan.cn/publication/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>https://wangchuhan.cn/tag/5g/</loc>
+    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wangchuhan.cn/tags/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>https://wangchuhan.cn/category/5g/</loc>
+    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wangchuhan.cn/publication/sp24/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>https://wangchuhan.cn/publication/wisec24/</loc>
+    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wangchuhan.cn/talk/31th-annual-network-and-distributed-system-security-symposium-ndss-2024/</loc>
@@ -75,18 +119,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wangchuhan.cn/publication/ndss24-a/</loc>
-    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/tag/email/</loc>
-    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/category/email/</loc>
-    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wangchuhan.cn/tag/email-security/</loc>
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

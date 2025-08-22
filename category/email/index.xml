@@ -5,12 +5,40 @@
     <link>https://wangchuhan.cn/category/email/</link>
       <atom:link href="https://wangchuhan.cn/category/email/index.xml" rel="self" type="application/rss+xml" />
     <description>Email</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wangchuhan.cn/media/icon_hudba5026d243df735440987f9ddc8c7ba_39106_512x512_fill_lanczos_center_3.png</url>
       <title>Email</title>
       <link>https://wangchuhan.cn/category/email/</link>
     </image>
+    
+    <item>
+      <title>Email Spoofing with SMTP Smuggling: How the Shared Email Infrastructures Magnify this Vulnerability</title>
+      <link>https://wangchuhan.cn/publication/security25/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/publication/security25/</guid>
+      <description>&lt;!-- ### Overview
+
+This paper systematically analyzes the transmission of an email and identiﬁes a series of new attacks capable of bypassing SPF, DKIM, DMARC and user-interface protections. We conduct a largescale experiment on 30 popular email services and 23 email clients, and ﬁnd that all of them are vulnerable to certain types of new attacks.
+
+[NoSpoofing](https://chrome.google.com/webstore/detail/nospoofing/ehidaopjcnapdglbbbjgeoagpophfjnp). 
+We designed a Chrome Extension called NoSpoofing. It is a UI notification scheme which can alert users that the emails they receive may be spoofing. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inbox Invasion: Exploiting MIME Ambiguities to Evade Email Attachment Detectors</title>
+      <link>https://wangchuhan.cn/publication/ccs24/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://wangchuhan.cn/publication/ccs24/</guid>
+      <description>&lt;!-- ### Overview
+
+This paper systematically analyzes the transmission of an email and identiﬁes a series of new attacks capable of bypassing SPF, DKIM, DMARC and user-interface protections. We conduct a largescale experiment on 30 popular email services and 23 email clients, and ﬁnd that all of them are vulnerable to certain types of new attacks.
+
+[NoSpoofing](https://chrome.google.com/webstore/detail/nospoofing/ehidaopjcnapdglbbbjgeoagpophfjnp). 
+We designed a Chrome Extension called NoSpoofing. It is a UI notification scheme which can alert users that the emails they receive may be spoofing. --&gt;
+</description>
+    </item>
     
     <item>
       <title>BreakSPF: How Shared Infrastructures Magnify SPF Vulnerabilities Across the Internet</title>
